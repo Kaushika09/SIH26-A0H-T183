@@ -7,7 +7,7 @@
 
 ## SIH26-A0H-T183
 ### Team Details
-#### **Team Name** <<Byte Force>> <br/>
+#### **Team Name** <<Byte Force>>Byte Force <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
