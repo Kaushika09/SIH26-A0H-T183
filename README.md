@@ -15,7 +15,7 @@
 |    Member 2     |Tharshun N M             |CB.EN.U4CCE25054        |     Male        |   CCE                           |  
 |    Member 3     |Dharun Pranav A          |CB.EN.U4CCE25017        |     Male        |   CCE                           |  
 |    Member 4     |M K Kavin                |CB.EN.U4CCE25027        |     Male        |   CCE                           |   
-|    Member 5     |Navya Ganesh Kavitha     |CB.EN.U4CCE25032        |     Male        |   CCE                           |  
+|    Member 5     |Navya Ganesh Kavitha     |CB.EN.U4CCE25032        |     Female      |   CCE                           |  
 |    Member 6     |Thanyaa MK               |CB.SC.U4CSE25251        |     Female      | CSE                             |   
 
 #### Mentor Details
