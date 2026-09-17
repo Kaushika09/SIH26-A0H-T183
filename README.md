@@ -35,6 +35,7 @@
 * **Problem Statement Title:AI-Based early warning and landslide Risk Monitoring System in NER
 * **Theme / Category:DISASTER MANAGEMENT
 * **Ministry / Organization:**, wherever applicable-Ministry of Development of North Eastern Region (MDoNER)
+* **YouTube Presentation Link:** [Watch Presentation](https://www.youtube.com/watch?v=0IcUKBCkrAg)
 
 #### PS#2
 
