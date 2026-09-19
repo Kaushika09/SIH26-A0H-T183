@@ -43,3 +43,14 @@
 * **Problem Statement Title:AI-Based Cognitive Gaming and Memory Assistance Platform for Elderly Dementia Patients in North Eastern Region (NER)
 * **Theme / Category:Space Technology
 * **Ministry / Organization:**, wherever applicable-Ministry of Development of North Eastern Region (MDoNER)
+
+* ```text
+| Caste           | Disability                               |Name                 |
+|-----------------|------------------------------------------|---------------------|
+|MBC              | None                                     | KAUSHIKA R          |
+|MBC              | None                                     |Navya ganesh kavitha |
+|BC               | None                                     |Thanyaa MK           |
+|MBC              | None                                     |Kavin MK             |
+|MBC              | None                                     |Dharun Pranav A      |
+|BC               |  None                                    |Tharshun N M         |
+```
