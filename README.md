@@ -51,6 +51,6 @@
 |MBC              | None                                     |Navya ganesh kavitha |
 |BC               | None                                     |Thanyaa MK           |
 |MBC              | None                                     |Kavin MK             |
-|MBC              | None                                     |Dharun Pranav A      |
+|BC               | None                                     |Dharun Pranav A      |
 |BC               |  None                                    |Tharshun N M         |
 ```
